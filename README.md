@@ -5,7 +5,7 @@
 ### Inspiration
 
 I Wanted to Do a simple project that would teach me the basics of pcb design and KiCAD. I also wanted a macropad to help me improve my designing workflow
-
+ 
 ### Challenges
 
 This was my first time using KiCad or any PCB software. I also was unfamiliar with autodesk fusion as I mainly use blender. It still fells a little complicated, but is getting easier as I work more
